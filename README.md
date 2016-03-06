@@ -9,4 +9,5 @@ These folders contains:
 * Research into various ideas and techniques for the construction of the system. 
 * Research into available hardware and designs. 
 * Calculations related to the design of the system.
+* Models of the system and it's various compontents.
 
