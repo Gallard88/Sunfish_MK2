@@ -1,0 +1,32 @@
+Motor Power Analysis.
+=======
+This test was conduted with a 12V 7.2AHr SLA, 2x bilge pumps (300 GPH & 1100 GPH), a 20mOhm current sense resistor & an oscilloscope.
+
+
+Results
+=======
+Vbatt = 12.9V.
+Both pumps had a start up  transient of approximately 30ms.
+The DC resistance was calculated by dividing the voltage by the peak current. A multimeter revealed that the DC impedance could vary significantly.
+
+
+300 GPH
+-----------
+I peak: 8.1A (162mV)
+I Average: 0.86A (17.2mV)
+DC Resistance: 1.6 Ohm
+
+
+1100 GPH
+-----------
+I peak: 5.52A (276mV)
+I Average: 1.1A (22mV)
+DC Resistance: 2.3 Ohm
+
+Conclusion
+=======
+The smaller pump has a higher peak but a lower average current. 
+A pump takes approximately 30ms to reach full speed (based on current profile).
+A first order approximation of a pump starting can be found in this directory (Motor_startng_model.asc)
+
+
