@@ -4,3 +4,13 @@
 # LTSpice related data.
 *.log
 *.raw
+
+# Altium Designer files
+History/
+Project*
+*.pcb_viewstate
+*.PcbDocPreview
+*.PrjPcbStructure
+*.SchDocPreview
+*.LOG
+*.pcbdoc_viewstate
