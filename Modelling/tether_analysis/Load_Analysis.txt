@@ -1,0 +1,32 @@
+MK1 Load Analysis.
+=======
+This test was conducted with a 12V 7.2AHr SLA, 8x bilge pumps (1100 GPH), a 20mOhm current sense resistor & an oscilloscope.
+
+
+Results
+=======
+Vbatt = 13.1V.
+
+Both pumps had a start up  transient of approximately 30ms.
+The DC resistance was calculated by dividing the voltage by the peak current. A multimeter revealed that the DC impedance could vary significantly.
+
+
+Static Load
+-----------
+I Average: 0.5A (10.1mV)
+
+All Motors Starting at once
+-----------
+I peak: 23.2A (464mV)
+I Average: 1.8A (36mV)
+
+100mS Between Motors
+-----------
+I peak: 18A (360mV)
+I Average: 1.8A (36mV)
+
+Conclusion
+=======
+Staggering the motors turning on by 100 ms reduced the peak current by 5A.
+In a real environment it would be rare to have all motors enable at once.
+
