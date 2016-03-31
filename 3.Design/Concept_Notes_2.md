@@ -34,4 +34,4 @@ This design houses everything in a single 4" tube. Some quick sketches suggest t
 Conclusion
 -----------
 Idea1 is large and not ideal. It adds significant complexity to the design (cables running back and forth). However it's largest advantage is the space available, and the number of holes for cables. Some of the cable sizes are currenty unknown/undecided. This layout means there are ample holes left over for changes in circumstances or future expansion if required. Quick calculations show that 2x 3" are more buoyant than 1x 4" tube. This Idea1 will require more ballast to make it sink.
-Idea2 is prefered if possible, but this design is hinged on fitting 3 cables per penetrator. This will have to be investigated. 
+Idea2 is prefered if possible, but this design is hinged on fitting 4 cables per penetrator. This will have to be investigated. 
