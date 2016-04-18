@@ -1,0 +1,13 @@
+Caps - Altronics
+P/N,   Value,  Voltage, Diameter, Height
+R5185, 1000u,  35V,     13.0mm,   21.0mm
+R5187, 1000u,  50V,     16.0mm,   26.0mm
+R5205, 2200u,  25V,     13.0mm,   26.0mm
+R5206, 2200u,  50V,     18.0mm,   41.0mm
+R5214, 3300u,  23V,     16.0mm,   26.0mm
+R5217, 3300u,  50V,     18.0mm,   36.0mm
+R5224, 4700u,  25V,     16.0mm,   31.5mm
+R5226, 4700u,  50V,     22.0mm,   41.0mm
+R5234, 10000u, 25V,     22.0mm,   41.0mm
+
+ 
