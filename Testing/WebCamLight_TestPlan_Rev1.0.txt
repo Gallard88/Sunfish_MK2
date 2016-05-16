@@ -1,0 +1,8 @@
+WebCamLight Test Plan
+Date: 16/05/2016
+Rev 1.0
+
+Tests to perform:
+
+1. LED Current vs Voltage
+LED branch should draw 20mA from 10V to 15V.

@@ -1,0 +1,30 @@
+Surface Control System Test Plan
+Date: 16/05/2016
+Rev 1.0
+
+Tests to perform:
+
+1. Charger Voltage
+Charger should output a voltage of 14V.
+
+2. Charger Overload
+Check that when overloaded the charger IC current limits to ~1A
+
+3. Battery charge current
+Verify battery trickle charges correctly. Battery should float to 13-14V
+
+4. 5V regulator Voltage 
+Circuit should regulate around 5V.
+
+5. 5V regulator Current 
+Circuit should source 4-5A and should enter constant current mode when there is a fault.
+
+6. Battery Over voltage
+Ensure idea diode circuit works corretly.
+
+7. High Current Outputs
+Ensure each output can source 15A continuosly.
+
+7. Low Current Outputs
+Ensure each output can source 5A continuosly.
+
