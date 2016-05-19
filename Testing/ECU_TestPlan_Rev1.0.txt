@@ -1,0 +1,44 @@
+ECU Test Plan
+Date: 16/05/2016
+Rev 1.0
+
+Tests to perform:
+
+1. Reverse voltage.
+Check that the TVS diode clamps a reverse voltage at 0.7V.
+
+2. 5V regulator Voltage 
+Circuit should regulate around 5V.
+
+3. 5V regulator Current 
+Circuit should source 4-5A and should enter constant current mode when there is a fault.
+
+4. 3V3 regulator Voltage 
+Circuit should regulate around 3V3.
+
+5. Current Sense Amp. 
+Reference Voltage should be at 0V.
+
+6. Motor Driver - Running
+Check PWM outputs work.
+
+7. Motor Driver - Fault
+Check PWM outputs fault when shorted.
+
+8. CPU - Programming
+Ensure CPU can be programmed via OpenOCD.
+
+9. CPU - USB
+Ensure CPU connects via USB as a HID device.
+
+10. INS Coms
+Ensure INS can be communicated with.
+
+11. Dataflash Coms
+Ensure Dataflash can be communicated with.
+
+12. ADC Coms
+Ensure ADC can be communicated with.
+
+13. USART Coms
+Ensure USART comms work correctly.
